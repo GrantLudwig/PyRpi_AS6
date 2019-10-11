@@ -33,4 +33,4 @@ while(num != "q" and num != "Q"):
 	if num != "q" and num != "Q":
 		userList.append(int(num))
 
-print(median(userList))
+print("Median is:", median(userList))
